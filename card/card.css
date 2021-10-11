@@ -1,0 +1,13 @@
+@import url(__item/card__item.css);
+@import url(__image/card__image.css);
+@import url(__title/card__title.css);
+@import url(__description/card__description.css);
+.card {
+  width: 920px;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
