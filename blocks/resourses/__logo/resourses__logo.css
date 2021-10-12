@@ -5,3 +5,8 @@
   padding: 0;
 
 }
+
+.resourses__logo:hover {
+  opacity: .3;
+  transition: opacity 1s ease;
+}

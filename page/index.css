@@ -1,4 +1,4 @@
-@import url(../blocks/vendor/normalize.css);
+@import url(../vendor/normalize.css);
 @import url(../blocks/rotation/rotation.css); /*Блок анимации*/
 @import url(../blocks/header/header.css);     /*Блок Header и его элементы*/
 @import url(../blocks/header/__title/header__title.css);
