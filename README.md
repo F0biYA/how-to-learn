@@ -22,6 +22,6 @@
   
 - - -
 
-### ⚡ Ссылка: https://f0biya.github.io/russian-travel/index.html
+### ⚡ Ссылка: https://f0biya.github.io/how-to-learn/
 
 
